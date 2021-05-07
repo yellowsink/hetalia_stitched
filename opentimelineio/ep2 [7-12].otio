@@ -1,0 +1,1426 @@
+{
+    "OTIO_SCHEMA": "Timeline.1",
+    "metadata": {},
+    "name": "Kdenlive imported timeline",
+    "global_start_time": null,
+    "tracks": {
+        "OTIO_SCHEMA": "Stack.1",
+        "metadata": {},
+        "name": "tracks",
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "children": [
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 36435.045
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 338.002
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 16.993
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadein"
+                            },
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 16.992999999999996
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadeout"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 12.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7195.834
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 892.987
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 17.023000000000026
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadein"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 12.mp4"
+                        }
+                    }
+                ],
+                "kind": "Audio"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 29159.221
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 580.01
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 7.013000000000034
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadeout"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 11.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 6694.795
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 1109.011
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 16.992999999999485
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadeout"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 11.mp4"
+                        }
+                    }
+                ],
+                "kind": "Audio"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 21696.414
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 109.99
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 10.01
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadein"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 10.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7032.797
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 651.009
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 10.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 317.98199999999999
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 8604.815
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 28.980999999999768
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadein"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 10.mp4"
+                        }
+                    }
+                ],
+                "kind": "Audio"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 15384.605
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 960.989
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8989.81
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 09.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 5349.62
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 1505.994
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 10.009999999999309
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadeout"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8989.81
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 09.mp4"
+                        }
+                    }
+                ],
+                "kind": "Audio"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7836.803
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 195.015
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 10.999
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadein"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 08.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7351.8279999999999
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 736.993
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 08.mp4"
+                        }
+                    }
+                ],
+                "kind": "Audio"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7871.808
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 11.988000000000284
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fadeout"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8994.006
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 07.mp4"
+                        }
+                    }
+                ],
+                "kind": "Audio"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7871.808
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8994.006
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 07.mp4"
+                        }
+                    }
+                ],
+                "kind": "Video"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7849.81
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 182.00799999999999
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 13.007
+                            }
+                        },
+                        "effects": [
+                            {
+                                "OTIO_SCHEMA": "Effect.1",
+                                "metadata": {
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 29.97002997002997,
+                                        "value": 10.999
+                                    }
+                                },
+                                "name": "",
+                                "effect_name": "fade_from_black"
+                            }
+                        ],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 08.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7351.8279999999999
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 736.993
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 08.mp4"
+                        }
+                    }
+                ],
+                "kind": "Video"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 15384.605
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 960.989
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8989.81
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 09.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 5349.62
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 1505.994
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8989.81
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 09.mp4"
+                        }
+                    }
+                ],
+                "kind": "Video"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 21696.414
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 109.99
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 10.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7032.797
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 651.009
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 10.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 317.98199999999999
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 8604.815
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 10.mp4"
+                        }
+                    }
+                ],
+                "kind": "Video"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 29159.221
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 580.01
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 11.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 6694.795
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 1109.011
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8993.017
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 11.mp4"
+                        }
+                    }
+                ],
+                "kind": "Video"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Gap.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 36435.045
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": []
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 338.002
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 12.mp4"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 7195.834
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 29.97002997002997,
+                                "value": 892.987
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 8991.818
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 29.97002997002997,
+                                    "value": 0.0
+                                }
+                            },
+                            "target_url": "Documents/Hetalia Axis Powers - 12.mp4"
+                        }
+                    }
+                ],
+                "kind": "Video"
+            }
+        ]
+    }
+}
